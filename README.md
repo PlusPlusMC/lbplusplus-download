@@ -1,3 +1,2 @@
-# liquidbounceplus.github.io
-website
-rip lb+
+# LiquidBounce++ Download site
+src go brrr
